@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Albérico Eduardo</h1>
 <h3 align="center">A enthusiastic student</h3>
 
+<img align="right" width="400" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" alt="CodingRoom"></>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albericoeduardo&label=Profile%20views&color=0e75b6&style=flat" alt="albericoeduardo" /> </p>
 
 - 🌱 I’m currently learning **TypeScript, Angular and Java**
