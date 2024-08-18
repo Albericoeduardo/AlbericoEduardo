@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Albérico Eduardo</h1>
-<h3 align="center">A enthusiastic student</h3>
+<h3 align="center">A enthusiastic student and Full Stack developer</h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" alt="CodingRoom">
 
