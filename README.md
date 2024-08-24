@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albericoeduardo&label=Profile%20views&color=0e75b6&style=flat" alt="albericoeduardo" /> </p>
 
-- 🌱 I’m currently learning **Quarkus & Flutter**
+- 🌱 I’m currently learning **Quarkus & Flutter/Dart**
 
 - 💬 Ask me about **Next & Java**
 
