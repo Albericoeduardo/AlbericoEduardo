@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Quarkus & Flutter/Dart**
 
-- 💬 Ask me about **Next & Spring!**
+- 💬 Ask me about **Next & Spring**
 
 - 📫 How to reach me **albericoeduardo202@gmail.com**
 
